@@ -7,9 +7,9 @@
 
 # Site Settings
 locale: "en-US"
-title: "Aditya Kane"
+title: "Anshuman Mishra"
 title_separator: "-"
-name: &name "Aditya Kane"
+name: &name "Anshuman Mishra"
 description: &description ""
 url: https://shivance.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
