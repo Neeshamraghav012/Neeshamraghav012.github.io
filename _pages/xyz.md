@@ -10,7 +10,7 @@ On this page, I have listed some things that I do/used to do in the pursuit of â
 # Competitive Programming 
 
 I've done competitive programming in past, a lot. You can find me as [anshumOn](https://codeforces.com/profile/anshumOn) on Codeforces,
-[anshuman021](https://www.codechef.com/users/anshuman021) on CodeChef and [__hokaage__](https://leetcode.com/__hokaage__/) on Leetcode. 
+[__anshuman021__](https://www.codechef.com/users/anshuman021) on CodeChef and [__hokaage__](https://leetcode.com/__hokaage__/) on Leetcode. 
 I'm still active on Leetcode though.
 
 Here are my achievements
