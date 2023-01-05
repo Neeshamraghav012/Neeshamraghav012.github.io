@@ -9,11 +9,11 @@ This page summarizes my open source contributions.
 
 ## Deepchem
 
-KerasCV is a repository of modular building blocks (layers, metrics, losses, data-augmentation) that applied computer vision engineers can leverage to quickly assemble production-grade, state-of-the-art training and inference pipelines. 
-
-My contributions to KerasCV include the following [Pull Requests](https://github.com/search?q=is%3Apr+repo%3Akeras-team%2Fkeras-cv+author%3AAdityaKane2001&type=Issues). Some of the important ones include RandomResizedCrop (a.k.a. Inception crop, Stochastic Depth and porting over models from `keras.applications` to `keras_cv.models`.
+[Deepchem](deepchem.io) is a library which is on a mission of democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology
+ 
+My contributions to deepchem include the following [Pull Requests](https://github.com/search?p=1&q=is+repo%3Adeepchem%2Fdeepchem+author%3Ashivance&type=Issues). The important one is porting CNN to PyTorch from Tensorflow.
 
 
 ## Other projects
 
-I have contributed to small projects like [pytorch-retinanet](https://github.com/search?q=is%3Apr+repo%3Ayhenon%2Fpytorch-retinanet+author%3AAdityaKane2001&type=Issues) (a PyTorch implementation of the  RetinaNet), [SmallPebble](https://github.com/search?q=is%3Apr+user%3Asradc+author%3AAdityaKane2001&type=Issues) (a see-through autodiff library written in Python), [awesomo](https://github.com/search?q=is%3Apr+repo%3Alk-geimfari%2Fawesomo+author%3AAdityaKane2001&type=Issues) (a collection of interesting projects). 
+I have minor contributions to project like [deepmind/optax](https://github.com/deepmind/optax/pull/413) (a gradient processing and optimization library for JAX.), [Ivy](https://github.com/unifyai/ivy/pull/5205/files) (The Unified Machine Learning Framework).
