@@ -184,6 +184,9 @@ collections:
   opensource:
     output: true
     permalink: /:collection/:path/
+  xyz:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:

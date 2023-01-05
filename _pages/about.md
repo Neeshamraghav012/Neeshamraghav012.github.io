@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Anshuman Mishra: Deep learning & Software Engineering"
-excerpt: "About me"
+title: "About Me"
+excerpt:
 author_profile: true
 redirect_from: 
   - /about/
@@ -27,5 +27,5 @@ I frequently contribute to the open source projects that are revolve around Deep
 
 # An honour to be their son
 
-  * Rajeev Mishra, Teacher
-  * Shubha Mishra, Teacher
+  * Rajeev Mishra
+  * Shubha Mishra
