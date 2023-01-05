@@ -7,8 +7,8 @@
 
 # Site Settings
 locale: "en-US"
-title: "Anshuman Mishra"
-title_separator: "-"
+title: "Anshuman"
+title_separator: "|"
 name: &name "Anshuman Mishra"
 description: &description ""
 url: https://shivance.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
