@@ -1,7 +1,6 @@
 ---
 permalink: /xyz/
 title: "xyz"
-excerpt: ""
 author_profile: true
 ---
 

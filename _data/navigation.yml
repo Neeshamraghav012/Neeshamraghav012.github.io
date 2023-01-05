@@ -16,5 +16,5 @@ main:
   - title: "CV"
     url: /cv/
 
-  - xyz: "xyz"
+  - title: "xyz"
     url: /xyz/
