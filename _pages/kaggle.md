@@ -11,15 +11,20 @@ This page summarizes my contributions to Data Science community of Kaggle.
 My kaggle profile is [@shivanshuman](https://www.kaggle.com/shivanshuman).
 
 Currently on kaggle I'm rated as
+
     1. Datasets Expert
+
     2. Competitions Contributor
+
     3. Notebooks Expert
+
     4. Discussions Expert
 
 # Competitions
 
 Kaggle competitions span months and tough competition in the global data science community makes them hard to participate.
 I find them fun. My notable achievements are following :
+
     1. My team **Kuch Bhi** recieved Bronze medal (stood 99th /936 teams) in G2Net [Detecting Continuous Gravitational Waves](https://www.kaggle.com/competitions/g2net-detecting-continuous-gravitational-waves/leaderboard)
 
 

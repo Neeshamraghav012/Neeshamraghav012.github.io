@@ -8,12 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I am Anshuman Mishra 
+You are probably here, because you want to know more about me, Aye ?
+Hi there! I am Anshuman Mishra.
 <br>
 
 ## A bit about me...
 
-I am a senior Electronics Engineering undergrad at National Institute of Technology, Warangal. 
+National Institute of Technology, Warangal will graduate me as Electronics Engineer, but my passion lies in Next Gen Computer Science
 
 I'm currently interning as a software engineering at Bank of New York, Mellon.
 
