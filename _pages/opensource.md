@@ -16,4 +16,6 @@ My contributions to deepchem include the following [Pull Requests](https://githu
 
 ## Other projects
 
-I have minor contributions to project like [deepmind/optax](https://github.com/deepmind/optax/pull/413) (a gradient processing and optimization library for JAX.), [Ivy](https://github.com/unifyai/ivy/pull/5205/files) (The Unified Machine Learning Framework).
+I have minor contributions to project like 
+* [deepmind/optax](https://github.com/deepmind/optax/pull/413) (a gradient processing and optimization library for JAX.)
+* [Ivy](https://github.com/unifyai/ivy/pull/5205/files) (The Unified Machine Learning Framework).
