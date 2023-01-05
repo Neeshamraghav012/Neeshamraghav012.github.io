@@ -1,14 +1,20 @@
 # main links links
 main:
   
-  - title: "Blog Posts"
+  - title: "Authoring"
     url: /blogs/
 
   - title: "Open source"
     url: /opensource/
+
+  - title: "Kaggle"
+    url: /kaggle/
 
   - title: "Talks"
     url: /talks/
   
   - title: "CV"
     url: /cv/
+
+  - xyz: "xyz"
+    url: /xyz/
