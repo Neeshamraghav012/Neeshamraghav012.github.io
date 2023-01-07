@@ -14,7 +14,7 @@ Hi there! I am Anshuman Mishra.
 
 ## A bit about me...
 
-National Institute of Technology, Warangal will graduate me as Electronics Engineer, but my passion lies in Next Gen Computer Science
+[National Institute of Technology, Warangal](https://nitw.ac.in) will graduate me as Electronics Engineer, but my passion lies in Next Gen Computer Science
 
 I'm currently interning as a software engineering at Bank of New York, Mellon.
 
