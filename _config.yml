@@ -82,39 +82,13 @@ author:
   avatar: "me_1.jpg"
   bio: "Trying to do Something valuable"
   location: "Pune, India"
-  employer:
-  pubmed:
-  googlescholar: 
+  employer: "Bank of New York, Mellon"
   email: shivanshuman021@gmail.com
-  researchgate: # example: "https://www.researchgate.net/profile/yourprofile"
-  uri:
-  bitbucket:
-  codepen:
-  dribbble:
-  flickr:
-  facebook:
-  foursquare:
   github: "shivance"
-  google_plus:
-  keybase: 
-  instagram:
-  impactstory: #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm:
   linkedin: "anshumOn"
   medium: "@shivance"
-  orcid: #"http://orcid.org/yourorcidurl"
-  pinterest:
-  soundcloud:
-  stackoverflow: # http://stackoverflow.com/users/123456/username
-  steam:
-  tumblr:
   twitter: "anshum0n"
   kaggle: "shivanshuman"
-  vine:
-  weibo:
-  xing:
-  youtube:
-  wikipedia:
 
 # Reading Files
 include:

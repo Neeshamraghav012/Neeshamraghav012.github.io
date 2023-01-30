@@ -24,6 +24,7 @@ I am interested in  Applied ML Scientist, ML Engineer and Software Engineer, ML 
 
 # Timeline
 
+  * Data Scientist, Internship , Bank of New York Mellon (Jan, 2023 - Present)
   * Software Developement Engineer, Internship, Amazon India (May, 2022 - July, 2022)
   * Software Developement Engineer, Internship, Almach Labs (Jan, 2022 - March, 2022)
 

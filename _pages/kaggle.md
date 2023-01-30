@@ -12,13 +12,13 @@ My kaggle profile is [@shivanshuman](https://www.kaggle.com/shivanshuman).
 
 Currently on kaggle I'm rated as
 
-  * Datasets Expert
+  * Notebooks Master - Ranked 301/2.5L+
 
-  * Competitions Contributor
+  * Datasets Expert - Ranked 115/79K+
 
-  * Notebooks Expert
+  * Discussions Expert - Ranked 495/3.2L+
 
-  * Discussions Expert
+  * Competitions Contributor - Ranked 99/936 (G2Net)
 
 # Competitions
 

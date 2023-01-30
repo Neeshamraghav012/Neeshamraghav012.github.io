@@ -7,6 +7,22 @@ author_profile: true
 
 This page summarizes my open source contributions. 
 
+## Keras
+
+KerasNLP is a natural language processing library that supports users through their entire development cycle
+
+My contributions include
+    * [Refactoring](https://github.com/keras-team/keras-nlp/pull/673) : Contributed to a big change in Keras' API
+    * [AlbertClassifier](https://github.com/keras-team/keras-nlp/pull/668) : Adding Classifier for Alberta Backbone Model
+    * [Bert Feature Extractor](https://github.com/keras-team/keras-nlp/pull/631) : Never got merged, but pointed out a Flaw in KerasNLP's design
+
+## FluxML
+
+Flux is a 100% pure-Julia stack and provides lightweight abstractions on top of Julia's native GPU and AD support. It makes the easy things easy while remaining fully hackable. 
+
+My contributions include
+    * [UNet](https://github.com/FluxML/Metalhead.jl/pull/210) : Implemented a UNet for Metalhead.jl (Flux's official model zoo) with best practices in Julia.
+
 ## Deepchem
 
 [Deepchem](deepchem.io) is a library which is on a mission of democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology
