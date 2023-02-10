@@ -8,24 +8,20 @@ author_profile: true
 Kaggling, has become a verb in itself ;), is my hobby. I have been an active part of Kaggle community since October, 2022.
 This page summarizes my contributions to Data Science community of Kaggle.
 
-My kaggle profile is [@shivanshuman](https://www.kaggle.com/shivanshuman).
+My Kaggle profile is [@shivanshuman](https://www.kaggle.com/shivanshuman).
 
-Currently on kaggle I'm rated as
+Currently on Kaggle I'm rated as
 
-  * Notebooks Master - Ranked 301/2.5L+
+  * Notebooks Master - Ranked in Top 0.1% /2.5L+
 
-  * Datasets Expert - Ranked 115/79K+
-
-  * Discussions Expert - Ranked 495/3.2L+
-
-  * Competitions Contributor - Ranked 99/936 (G2Net)
+  * Datasets Master - Ranked in Top 0.1% / 79K+
 
 # Competitions
 
 Kaggle competitions span months and tough competition in the global data science community makes them hard to participate.
 I find them fun. My notable achievements are following :
 
-  * My team **Kuch Bhi** recieved Bronze medal (stood 99th /936 teams) in G2Net [Detecting Continuous Gravitational Waves](https://www.kaggle.com/competitions/g2net-detecting-continuous-gravitational-waves/leaderboard)
+  * My team **Technocrats** recieved Bronze medal (stood 99th /936 teams) in G2Net [Detecting Continuous Gravitational Waves](https://www.kaggle.com/competitions/g2net-detecting-continuous-gravitational-waves/leaderboard)
 
 
 # Notebooks

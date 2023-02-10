@@ -15,6 +15,7 @@ My contributions include
     * [Refactoring](https://github.com/keras-team/keras-nlp/pull/673) : Contributed to a big change in Keras' API
     * [AlbertClassifier](https://github.com/keras-team/keras-nlp/pull/668) : Adding Classifier for Alberta Backbone Model
     * [Bert Feature Extractor](https://github.com/keras-team/keras-nlp/pull/631) : Never got merged, but pointed out a Flaw in KerasNLP's design
+    * [AlbertMasked Language Model](https://github.com/keras-team/keras-nlp/pull/725): Merged
 
 ## FluxML
 
