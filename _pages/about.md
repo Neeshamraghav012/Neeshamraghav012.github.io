@@ -20,7 +20,7 @@ I'm currently interning as a software engineering at Bank of New York, Mellon.
 
 I frequently contribute to the open source projects that are revolve around Deep Learning. My contributions are aimed towards adding meaningful components that improve user experience. Blogging is my new hobby and I'm very active on Kaggle and often write kernels. 
 
-I am interested in  Applied ML Scientist, ML Engineer and Software Engineer, ML roles were I'll get to solve interesting problems ! 
+I am interested in  Applied ML Scientist, ML Engineer and Software Engineer, ML roles.
 
 # Timeline
 
