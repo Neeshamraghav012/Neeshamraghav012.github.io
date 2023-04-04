@@ -9,12 +9,12 @@ redirect_from:
 ---
 
 You are probably here, because you want to know more about me, Aye ?
-Hi there! I am Anshuman Mishra.
+Hi there! I am Neesham Raghav.
 <br>
 
 ## A bit about me...
 
-[National Institute of Technology, Warangal](https://nitw.ac.in) will graduate me as Electronics Engineer, but my passion lies in Next Gen Computer Science
+[J.C. Bose UST, YMCA](https://jcboseust.ac.in/) will graduate me as Electronics and Computer Engineer, but my passion lies in Next Gen Computer Science
 
 I'm currently interning as a software engineering at Bank of New York, Mellon.
 
@@ -30,5 +30,5 @@ I am interested in  Applied ML Scientist, ML Engineer and Software Engineer, ML 
 
 # An honour to be their son
 
-  * Rajeev Mishra
-  * Shubha Mishra
+  * Narender Raghav
+  * Sangeeta Raghav
